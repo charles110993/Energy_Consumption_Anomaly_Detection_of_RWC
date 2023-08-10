@@ -1,2 +1,1 @@
-# Energy_Consumption_Anomaly_Detection_of_RWC
-ML model for detecting anomalies in pattern 
+Energy Anomaly Detection System: This repository contains a machine learning solution for real-time energy anomaly detection in a Robotic Welding Cell (RWC). The system leverages the Isolation Forest algorithm to monitor energy consumption patterns and detect anomalies. The implementation involves data collection, preprocessing, model training, and integration into the production environment. A real-time dashboard provides visual insights into energy trends, and an automated alerting mechanism notifies operators of critical anomalies. This solution aims to optimize energy usage, enhance process efficiency, and reduce energy-related costs in the manufacturing industry.
